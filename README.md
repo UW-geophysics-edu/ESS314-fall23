@@ -2,9 +2,10 @@
 
 
 ## Instructors:
-Marine Denolle, mdenolle@uw.edu
+Marine Denolle (mdenolle@uw.edu)
+
 *Teaching Assistant*:
-Yiyu Ni niyiyu@uw.edu
+Yiyu Ni (niyiyu@uw.edu)
 
 
 # Textbook
