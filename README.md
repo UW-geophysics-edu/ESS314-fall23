@@ -21,10 +21,10 @@ By the end of the course, students will demonstrate the ability to:
 
  
 # Assignments and grading:
-Problem sets: Problem sets are due one week after assigned.
-Labs will be 2 hours on Friday, and will involve some practical, field, or computer work and some write-up. The labs will be due at 12:30 pm on the Friday following the lab.  More info on the labs forthcoming at the first lab meeting.
-Tests/Quizzes: There will be four online short tests, all relatively short and with equal weight. There will not be a comprehensive midterm and final exam.
-Technical report: Some of the labs will involve writing a technical report. In each of these labs you will be interpreting a different type of data to learn incrementally more about a subsurface region of interest.
+1. Problem sets: Problem sets are due one week after assigned.
+2. Labs will be 2 hours on Friday, and will involve some practical, field, or computer work and some write-up. The labs will be due at 12:30 pm on the Friday following the lab.  More info on the labs forthcoming at the first lab meeting.
+3. Tests/Quizzes: There will be four online short tests, all relatively short and with equal weight. There will not be a comprehensive midterm and final exam.
+4. Technical report: Some of the labs will involve writing a technical report. In each of these labs you will be interpreting a different type of data to learn incrementally more about a subsurface region of interest.
 
 
 # Lecture Schedule Overview
