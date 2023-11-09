@@ -1,6 +1,6 @@
 # Final Project - ESS 314 2023
 
-##Scenario: 
+## Scenario: 
 As a USGS-employed geophysicist, you have been selected to perform a geophysical study of the Long Valley Caldera, CA. The Long Valley Caldera formed 760 ka years ago when the eruption of 600 km3 of material, now called the Bishop Tuff, resulted in 1-2 km of subsidence into the evacuated magma chamber. Since the supereruption, additional eruptions at 500 ka, 300 ka, and 100 ka centered on a resurgent dome in the caldera. More recently, volcanic activity shifted westward, creating Mammoth Mountain (a popular ski area for Californians) on the southwest margin of the caldera. Since 1978, Long Valley Caldera has experienced unrest, with earthquake swarms, uplift of the resurgent dome, and CO2 emissions near Mammoth Mountain. Recently, the scientific debate has proposed 2 potential interpretations of the unrest: an active hydro-geothermal activities or an active magmatic intrusion in the shallow subsurface (). In light of this unrest, it is your job to find out if subsurface anomalies could lead to more unstable activities and to participate in this debate.
 
 For this study, you will aim to (1) interpret the subsurface layers in light of the geologic history of the area and (2) look for any signs of renewed volcanism. You will use the instruments at your disposal – a seismic unit, a gravimeter, and a magnetometer – to systematically explore the area. 
@@ -59,27 +59,26 @@ Use PowerPoint formats to upload to Canvas.
 A mid-point check-in of the project is assigned to assess and ensure progress over the final project. The mid-point check-in does not require the entire project, you are expected to have completed at least 50% of the project (notebook, report, presentation slides). The midpoint check-in is a draft of your final project. Submit all three pieces on Canvas, and we will provide written feedback. For in-person feedback, please attend the following office hours.
 
 
-
-
 ##  Rubric for grading. 
 100 points for the final project.
 50 points for the mid-point check-in.
 
-Written report (40%):
-Written mechanics (20%): grammar, spelling, referencing, etc. 
-Clarity and flow of argument (20%): is your text organized? Does each paragraph feed off of earlier paragraphs and facilitate later ones? Is some information “extra” – i.e. do you have a paragraph that doesn’t contribute to the point of what you’re writing, etc. 
-Strength of Support (25%): is your argument a sound one – i.e., is it supported by the data and figures you have available in a clear, direct fashion? Have you made a clear distinction between observations and interpretations? Do you convey clearly the things you know for sure versus those you must infer, etc. 
-Sophistication of argument (15%): a simple argument supported by simple evidence can be sound, but we are also looking for indications that you have taken things a step or two beyond this intellectually. Consider the geologic setting. You can say, “this layer is composed of loose sediment because the seismic velocity is 2000 m/s,” or you can say, “This layer is composed of loose sediment because the seismic velocity is 2000 m/s, and glaciers deposited a lot of debris in the area many years ago.” The second is a much stronger argument (and is the difference between an “A” and a “B”). 
-Adherence to guidelines (5%): You were asked 6 pages, but you wrote 12! Did you include all the required sections in your report? 
-Effectiveness of your revisions (15%): how thorough a job have you done when revising your text in response to my comments and your new data? Did you incorporate the specific comments provided to you the first time to improve on the final?
+1. Written report (40%):
+    * **Written mechanics (20%)**: grammar, spelling, referencing, etc. 
+    * **Clarity and flow of argument (20%)**: is your text organized? Does each paragraph feed off of earlier paragraphs and facilitate later ones? Is some information “extra” – i.e. do you have a paragraph that doesn’t contribute to the point of what you’re writing, etc. 
+    * **Strength of Support (25%)**: is your argument a sound one – i.e., is it supported by the data and figures you have available in a clear, direct fashion? Have you made a clear distinction between observations and interpretations? Do you convey clearly the things you know for sure versus those you must infer, etc. 
+    * **Sophistication of argument (15%)**: a simple argument supported by simple evidence can be sound, but we are also looking for indications that you have taken things a step or two beyond this intellectually. Consider the geologic setting. You can say, “this layer is composed of loose sediment because the seismic velocity is 2000 m/s,” or you can say, “This layer is composed of loose sediment because the seismic velocity is 2000 m/s, and glaciers deposited a lot of debris in the area many years ago.” The second is a much stronger argument (and is the difference between an “A” and a “B”). 
+    * **Adherence to guidelines (5%)**: You were asked 6 pages, but you wrote 12! Did you include all the required sections in your report? 
+    * **Effectiveness of your revisions (15%)**: how thorough a job have you done when revising your text in response to my comments and your new data? Did you incorporate the specific comments provided to you the first time to improve on the final?
 
-Notebook (30%):
-Notebook organization (30%): between each section, import modules on the top cell, make a cell per figure etc, and remove unused cells.
-Commenting to enable reproducibility (20%): can your sibling or another peer in STEM re-run the notebook and understand the steps (even without understanding geophysics in general)
-Correctness of the analysis (50%): did you follow the guidance from the lab and produce a correct analysis? Even if the final image is not unique, your notebook should demonstrate the correct workflow.
+2. Notebook (30%):
+    * **Notebook organization (30%)**: between each section, import modules on the top cell, make a cell per figure etc, and remove unused cells.
+    * **Commenting to enable reproducibility (20%)**: can your sibling or another peer in STEM re-run the notebook and understand the steps (even without understanding geophysics in general)
+    * **Correctness of the analysis (50%)**: did you follow the guidance from the lab and produce a correct analysis? Even if the final image is not unique, your notebook should demonstrate the correct workflow.
 
-Presentation (30%):
-Effectiveness of the presentation (40%)
-Q/A discussion (20%)
-Simplicity - clarify of the slides (20%)
-Presence on stage and eloquence (20%)
+3. Presentation (30%):
+    * **Effectiveness of the presentation (40%)**
+    * **Q/A discussion (20%)**
+    * **Simplicity - clarify of the slides (20%)**
+    * **Presence on stage and eloquence (20%)**
+
