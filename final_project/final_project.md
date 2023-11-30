@@ -85,6 +85,8 @@ A mid-point check-in of the project is assigned to assess and ensure progress ov
 
  ### For the mid point checking, the rubric for grading is the following:
 
+Grades will be posted on canvas as graded over 10 points each. Final grade is 50 points.
+
 | written mechanics	| clarify or flow of argument  |strength and support|sophistication of argument|adherence to guidelines| *Total report grade* | Notebook organization|	Comments on the cells|correctness of analysis| 	*Total Notebook Grade*|
 | --- | --- | --- |---|---|---|---|---|---|---|
 |20%|20%|25%|15%|20%|50%|30%|20%|50%|50%|
