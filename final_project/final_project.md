@@ -82,3 +82,11 @@ A mid-point check-in of the project is assigned to assess and ensure progress ov
     * **Simplicity - clarify of the slides (20%)**
     * **Presence on stage and eloquence (20%)**
 
+
+ ### For the mid point checking, the rubric for grading is the following:
+
+| written mechanics	| clarify or flow of argument  |strength and support|sophistication of argument|adherence to guidelines| *Total report grade* | Notebook organization|	Comments on the cells|correctness of analysis| 	*Total Notebook Grade*|
+| --- | --- | --- |---|---|---|---|---|---|---|
+|20%|20%|25%|15%|20%|50%|30%|20%|50%|50%|
+    
+
